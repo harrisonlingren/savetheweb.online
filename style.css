@@ -726,7 +726,7 @@
 .markdown-body a {color: #4FC3F7; text-decoration: underline;}
 .markdown-body a:hover {color: #ffffff; text-decoration: none;}
 
-li b, li p { color: #4FC3F7; }
+li b { color: #4FC3F7; }
 body { background-color: #263238; }
 
 footer {
